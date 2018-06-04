@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "445103263051",
+    "firebase_url": "https://react-native-firebase-1ce91.firebaseio.com",
+    "project_id": "react-native-firebase-1ce91",
+    "storage_bucket": "react-native-firebase-1ce91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445103263051:android:e938f54b37273418",
+        "android_client_info": {
+          "package_name": "com.repoddm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445103263051-9hmptgciv6eas2r2nhai4anp2gpoiblr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSJu43HnLw-Mu8Y0w2iTH4_pv8sXLhVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
